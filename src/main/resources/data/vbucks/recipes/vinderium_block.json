@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+
+	"pattern": [
+		"CCC",
+		"CCC",
+		"CCC"
+	],
+	"key": {
+		"C": {
+			"item": "vbucks:vinderium_chunk"
+		}
+	},
+
+	"result": {
+		"item": "vbucks:vinderium_block"
+	}
+}

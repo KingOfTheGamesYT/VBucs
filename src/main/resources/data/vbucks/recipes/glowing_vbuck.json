@@ -1,0 +1,13 @@
+{
+	"type": "crafting_shapeless",
+
+	"ingredients": [{
+		"item": "vbucks:vbuck"
+	}, {
+		"item": "vbucks:radiant_shard"
+	}],
+
+	"result": {
+		"item": "vbucks:glowing_vbuck"
+	}
+}

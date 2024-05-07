@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shaped",
+
+	"pattern": [
+		"W W",
+		"WRW",
+		" W "
+	],
+	"key": {
+		"W": {
+			"item": "vbucks:white_shard"
+		},
+		"R": {
+			"item": "vbucks:radiant_shard"
+		}
+	},
+
+	"result": {
+		"item": "vbucks:vbuck_core"
+	}
+}

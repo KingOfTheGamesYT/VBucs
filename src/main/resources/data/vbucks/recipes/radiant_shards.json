@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shapeless",
+
+	"ingredients": [{
+		"item": "vbucks:radiant_block"
+	}],
+
+	"result": {
+		"item": "vbucks:radiant_shard",
+		"count": 9
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"type": "smelting",
+
+	"ingredient": {
+		"item": "vbucks:vinderium_ore"
+	},
+
+	"result": "vbucks:vinderium_chunk",
+	"experience": 1
+}

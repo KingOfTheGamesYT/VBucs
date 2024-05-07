@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"layers=1": {"model": "vbucks:block/bobucks/1"},
+		"layers=2": {"model": "vbucks:block/bobucks/2"},
+		"layers=3": {"model": "vbucks:block/bobucks/3"},
+		"layers=4": {"model": "vbucks:block/bobucks/4"},
+		"layers=5": {"model": "vbucks:block/bobucks/5"},
+		"layers=6": {"model": "vbucks:block/bobucks/6"},
+		"layers=7": {"model": "vbucks:block/bobucks/7"},
+		"layers=8": {"model": "vbucks:block/bobucks/8"}
+	}
+}

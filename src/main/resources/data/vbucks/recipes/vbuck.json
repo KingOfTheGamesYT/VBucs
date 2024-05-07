@@ -1,0 +1,24 @@
+{
+	"type": "crafting_shaped",
+
+	"pattern": [
+		"RSR",
+		"SVS",
+		"SRS"
+	],
+	"key": {
+		"R": {
+			"item": "vbucks:radiant_shard"
+		},
+		"S": {
+			"item": "vbucks:vbuck_shard"
+		},
+		"V": {
+			"item": "vbucks:vbuck_core"
+		}
+	},
+
+	"result": {
+		"item": "vbucks:vbuck"
+	}
+}

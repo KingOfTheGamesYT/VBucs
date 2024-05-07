@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+
+	"pattern": [
+		"QGQ",
+		"GWG",
+		"QGQ"
+	],
+	"key": {
+		"Q": {"item": "minecraft:quartz"},
+		"G": {"item": "minecraft:glowstone_dust"},
+		"W": {"item": "vbucks:white_shard"}
+	},
+
+	"result": {
+		"item": "vbucks:radiant_shard"
+	}
+}

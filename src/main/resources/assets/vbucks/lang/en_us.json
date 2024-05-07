@@ -1,0 +1,24 @@
+{
+	"itemGroup.vbucks.tab": "V-Bucks",
+
+	"item.vbucks.vbuck_core": "V-Buck Core",
+	"item.vbucks.vbuck_shard": "V-Buck Shard",
+	"item.vbucks.white_shard": "White V-Buck Shard",
+	"item.vbucks.radiant_shard": "Radiant V-Buck Shard",
+	"item.vbucks.vinderium_chunk": "Vinderium Chunk",
+	"item.vbucks.credit_card": "Mom's Credit Card",
+	"item.vbucks.credit_card.tooltip": "An infinite source of wealth, pilfered from the purse of a Villager.",
+	"item.vbucks.credit_card.declined": "Card declined: FRAUDULENT TRANSACTION DETECTED",
+	"item.vbucks.credit_card.accepted": "Card accepted. Have a nice day!",
+
+	"block.vbucks.vbuck": "V-Buck",
+	"block.vbucks.glowing_vbuck": "Glowing V-Buck",
+	"block.vbucks.vbuck_block": "V-Buck Block",
+	"block.vbucks.white_block": "White V-Buck Block",
+	"block.vbucks.radiant_block": "Radiant V-Buck Block",
+	"block.vbucks.vinderium_block": "Block of Vinderium",
+	"block.vbucks.vinderium_ore": "Vinderium Ore",
+	"block.vbucks.bobucks": "Bobucks",
+	"block.vbucks.bobucks.tooltip": "Requires no monetary transaction!",
+	"block.vbucks.bobuck_block": "Bobuck Block"
+}

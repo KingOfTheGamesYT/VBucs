@@ -1,0 +1,12 @@
+{
+	"type": "crafting_shapeless",
+
+	"ingredients": [{
+		"item": "vbucks:vbuck_block"
+	}],
+
+	"result": {
+		"item": "vbucks:vbuck_shard",
+		"count": 9
+	}
+}
